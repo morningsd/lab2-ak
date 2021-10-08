@@ -1,0 +1,4 @@
+/home/demian/study/ak/lab2/build/default/CMakeFiles/rebuild_cache.dir
+/home/demian/study/ak/lab2/build/default/CMakeFiles/edit_cache.dir
+/home/demian/study/ak/lab2/build/default/CMakeFiles/demo.dir
+/home/demian/study/ak/lab2/build/default/CMakeFiles/factorial.dir

@@ -1,0 +1,6 @@
+# ninja log v5
+1	43	1633706237310414600	CMakeFiles/factorial.dir/src/factorial.cpp.o	b2a2525db83dae83
+43	98	1633706237363747937	libfactorial.a	ed57947f2b9e493e
+0	529	1633706237793747962	CMakeFiles/demo.dir/src/main.cpp.o	d438c8e1713c8a1
+531	631	1633706237897081301	demo	c67193ed20747d9b
+0	6	0	clean	a31eedcededa8236

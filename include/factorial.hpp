@@ -1,0 +1,2 @@
+
+long fact(long x);
